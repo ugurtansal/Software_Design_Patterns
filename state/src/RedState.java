@@ -6,6 +6,7 @@ public class RedState implements TrafficLightState{
         return null;
     }
 
+
     @Override
     public String getColor() {
         return "Red";

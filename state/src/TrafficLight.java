@@ -17,4 +17,5 @@ public class TrafficLight {
         return state.getColor();
     }
 
+
 }

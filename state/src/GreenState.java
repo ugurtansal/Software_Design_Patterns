@@ -10,4 +10,5 @@ public class GreenState implements TrafficLightState{
     public String getColor() {
         return "Green";
     }
+
 }
