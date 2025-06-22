@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f684952f-b0c4-47a4-91ba-75ec993d6d0c" name="Changes" comment="Added Template Pattern">
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/src/AsusGpu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/src/AsusManufacturer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/src/AsusMonitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/src/Company.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/src/IComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/src/IGPU.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/src/IMonitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/src/MSIManufacturer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/src/MsiGpu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/src/MsiMonitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/task_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapter/src/CelcsiusToFahrenheitAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapter/src/Celsius.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapter/src/Fahrenheit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapter/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bridge/src/AdvancedRemote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bridge/src/BasicRemote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bridge/src/IDevice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bridge/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bridge/src/Radio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bridge/src/Remote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bridge/src/TV.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../builder/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../builder/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../builder/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../builder/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../builder/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../builder/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../builder/builder.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../builder/src/AmericanBreakfastBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../builder/src/Breakfast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../builder/src/BreakfastBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../builder/src/Director.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../builder/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../builder/src/TurkishBreakfastBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chainResponsibility/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chainResponsibility/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chainResponsibility/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chainResponsibility/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chainResponsibility/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chainResponsibility/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chainResponsibility/chainResponsibility.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chainResponsibility/src/210129053.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chainResponsibility/src/Approver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chainResponsibility/src/Director.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chainResponsibility/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chainResponsibility/src/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chainResponsibility/src/President.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chainResponsibility/src/VicePresident.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../command/EditorExample/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../command/EditorExample/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../command/EditorExample/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../command/EditorExample/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../command/EditorExample/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../command/EditorExample/EditorExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../command/EditorExample/src/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../command/EditorExample/src/Editor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../command/EditorExample/src/HistoryHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../command/EditorExample/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../command/EditorExample/src/WriteHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../composite/src/File.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../composite/src/FileSystemItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../composite/src/Folder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../composite/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decorator/src/Coffee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decorator/src/CoffeeDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decorator/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decorator/src/MilkDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decorator/src/SimpleCoffee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decorator/src/SugarDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decorator/src/WhippedCreamDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/src/Light.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/src/SecuritySystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/src/SmartHome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/src/Thermostat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory/factory.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory/src/IPizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory/src/Margherita.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory/src/Pepperoni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory/src/PizzaFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory/src/Veggie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flyweight/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flyweight/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flyweight/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flyweight/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flyweight/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flyweight/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flyweight/flyweight.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flyweight/src/210129053.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flyweight/src/Forest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flyweight/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flyweight/src/Tree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flyweight/src/TreeFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flyweight/src/TreeType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iterator/src/LinkedNoteIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iterator/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iterator/src/Note.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iterator/src/NoteHistory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iterator/src/NoteIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mediator/src/ChatRoom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mediator/src/Component.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mediator/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mediator/src/Mediator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mediator/src/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../memento/src/Canvas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../memento/src/CanvasMemento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../memento/src/CareTaker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../memento/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../observer/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../observer/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../observer/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../observer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../observer/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../observer/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../observer/observer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../observer/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../observer/src/Stock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../observer/src/StockAlert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../observer/src/StockDisplay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../observer/src/StockLogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../observer/src/StockNewsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../observer/src/StockObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BurgerOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrderTemplate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PizzaOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prototype/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prototype/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prototype/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prototype/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prototype/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prototype/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prototype/prototype.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prototype/src/Bus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prototype/src/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prototype/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prototype/src/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proxy/src/Document.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proxy/src/DocumentProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proxy/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proxy/src/RealDocument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proxy/src/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../singleton/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../singleton/src/Singleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../state/src/GreenState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../state/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../state/src/RedState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../state/src/TrafficLight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../state/src/TrafficLightState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../state/src/YellowState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../strategy/src/DiscountStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../strategy/src/FixedDiscount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../strategy/src/GreenState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../strategy/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../strategy/src/NoDiscount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../strategy/src/PercentageDiscount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../strategy/src/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../strategy/src/RedState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../strategy/src/TrafficLight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../strategy/src/TrafficLightState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../strategy/src/YellowState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visitor/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visitor/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visitor/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visitor/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visitor/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visitor/src/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visitor/src/Clothing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visitor/src/DiscountCalculatorVisitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visitor/src/Electronics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visitor/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visitor/src/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visitor/src/ProductVisitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visitor/src/TaxCalculatorVisitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visitor/visitor.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2yozjETW7XWRitPFubMo1KNKFzz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/ugur/OneDrive/Masaüstü/24-25/2.Dönem/Software Design Patterns/Design Patterns/orderTemplate/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f684952f-b0c4-47a4-91ba-75ec993d6d0c" name="Changes" comment="" />
+      <created>1750515848851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750515848851</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added Template Pattern">
+      <option name="closed" value="true" />
+      <created>1750516144661</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750516144661</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Template Pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Template Pattern" />
+  </component>
+</project>
